@@ -1,0 +1,8 @@
+export const REGISTER_ENTRY = "REGISTER_ENTRY"
+export const EDIT_ENTRY = "EDIT_ENTRY"
+export const GET_ENTRIES = "GET_ENTRIES"
+export const SET_ENTRIES = "SET_ENTRIES"
+export const GET_ENTRY = "GET_ENTRY"
+export const SET_ENTRY = "SET_ENTRY"
+export const SET_ENTRY_IMAGE = "SET_ENTRY_IMAGE"
+export const APPROVE_ENTRY = "APPROVE_ENTRY"
